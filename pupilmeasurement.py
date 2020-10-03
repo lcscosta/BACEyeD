@@ -22,7 +22,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from fractions import Fraction 
 
-'''
 def get_infrared_eye_coords(binary_image):
     # Derive coords from mask
     y_index, x_index = np.where(binary_image != 0)
@@ -144,7 +143,6 @@ def validator(image, eye_x, eye_y):
 # Crops down to a 250x250 region centred on the eye given by Bryan's code
 def crop_to_eye(image, cian_x, cian_y):
 	return image[cian_y-125:cian_y+125, cian_x-125:cian_x+125]
-'''
 
 # Convert an image to grayscale and apply a blur for the Circle Hough Transform
 def blur_grayscale(image, blur):
