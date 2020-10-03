@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Introdução
 
 You can use the [editor on GitHub](https://github.com/lcscosta/BACEyeD/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Objetivos
+
+## Materiais
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -20,6 +22,12 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+## Métodos
+
+## Resultados 
+
+...
 
 **Bold** and _Italic_ and `Code` text
 
