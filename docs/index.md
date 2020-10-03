@@ -10,6 +10,8 @@ Segundo o relatório "GLOBAL STATUS REPORT ON ROAD SAFETY 2018" da divisão de s
 
 ![Figura1](https://github.com/lcscosta/BACEyeD/blob/master/docs/images/fig1.png)
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 Entre as medidas que servem como mitigadoras está a lei de regulamentação do consumo de álcool e dirigir, conhecida como Lei Seca, onde possui a seguinte distribuição de países que possuem legislação a respeito:
 
 ![Figura2](https://github.com/lcscosta/BACEyeD/blob/master/docs/images/fig2.png)
