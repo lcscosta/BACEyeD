@@ -1,8 +1,21 @@
 ## Introdução
 
-You can use the [editor on GitHub](https://github.com/lcscosta/BACEyeD/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+As duas maiores causas de morte no mundo são cardiopatia isquêmica e acidente vascular cerebral, no ano de 2016 foram responsáveis por 15,2 milhões de óbitos no mundo. Não muito longe encontra-se em 8º lugar mortes causadas por acidentes de trânsito que no mesmo ano mataram cerca de 1,4 milhão de pessoas, dos quais cerca de três quartos (74%) foram homens e meninos. (1) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Os acidentes de trânsito são ainda a melhor forma de aborto para pós-nascidos, liderando como a principal causa de morte infantil. (2)
+
+
+Segundo o relatório "GLOBAL STATUS REPORT ON ROAD SAFETY 2018" da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
+
+![Image](/docs/images/fig1.png)
+
+Entre as medidas que servem como mitigadoras está a lei de regulamentação do consumo de álcool e dirigir, conhecida como Lei Seca, onde possui a seguinte distribuição de países que possuem legislação a respeito:
+
+![Image](/docs/images/fig2.png)
+
+O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é chamado de BAC (Blood Alcohol Concentration), dado na unidade de gramas por dl. A atual forma de se estimar este parâmetro está em 
+
 
 ## Objetivos
 
