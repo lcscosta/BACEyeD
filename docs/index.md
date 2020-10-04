@@ -27,10 +27,13 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à 
 
 
-![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.png)
+![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)
+
+Figura 3:
 
 ![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)
 
+Figura 4:
 
 ## Materiais
 
