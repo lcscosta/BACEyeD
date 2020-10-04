@@ -41,8 +41,11 @@ Primeiramente será construído o bafômetro utilizando os materiais acima lista
 ![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)<br />
 Figura 3:
 
+![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig5.png)<br />
+Figura 3:
 
-
+![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig6.png)<br />
+Figura 3:
 
 
 ## Resultados 
