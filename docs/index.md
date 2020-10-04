@@ -8,14 +8,12 @@ As duas maiores causas de morte no mundo são cardiopatia isquêmica e acidente 
 
 Segundo o relatório ["GLOBAL STATUS REPORT ON ROAD SAFETY 2018"] da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
 
-![Figura1](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig1.png)
-
+![Figura1](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig1.png)<br />
 Figura 1:
 
 Entre as medidas que servem como mitigadoras está a lei de regulamentação do consumo de álcool e dirigir, conhecida como Lei Seca, onde possui a seguinte distribuição de países que possuem legislação a respeito:
 
-![Figura2](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig2.png)
-
+![Figura2](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig2.png)<br />
 Figura 2:
 
 O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é chamado de BAC (Blood Alcohol Concentration), dado na unidade de gramas por dl. A atual forma de se estimar este parâmetro está nos bafômetros ....
@@ -27,12 +25,10 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à 
 
 
-![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)
-
+![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)<br />
 Figura 3:
 
-![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)
-
+![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)<br />
 Figura 4:
 
 ## Materiais
@@ -53,10 +49,13 @@ Entre os materiais utilizados para a realização do projeto estão listados:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Autores
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcscosta/BACEyeD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Lucas Murilo da Costa<br />
+Email: lucasdacosta@usp.br
 
-### Support or Contact
+Marcelo Manduca<br />
+Email: mmanduca@usp.br?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mateus Simões<br />
+Email: mateussimoes@usp.br?
