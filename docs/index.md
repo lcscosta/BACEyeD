@@ -52,10 +52,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Autores
 
 Lucas Murilo da Costa<br />
-Email: [mail1](lucasdacosta@usp.br)
+[lucasdacosta@usp.br](mailto:lucasdacosta@usp.br)
 
 Marcelo Manduca<br />
-Email: [mail2](mmanduca@usp.br)
+[mmanduca@usp.br](mailto:mmanduca@usp.br)
 
 Mateus Simões<br />
-Email: [mail3](mateussimoes@usp.br)
+[mateussimoes@usp.br](mailto:mateussimoes@usp.br)
