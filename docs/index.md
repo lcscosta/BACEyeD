@@ -8,11 +8,11 @@ Os acidentes de trânsito são ainda a melhor forma de aborto para pós-nascidos
 
 Segundo o relatório "GLOBAL STATUS REPORT ON ROAD SAFETY 2018" da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
 
-![Image](/docs/images/fig1.png)
+![Figura1](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig1.png)
 
 Entre as medidas que servem como mitigadoras está a lei de regulamentação do consumo de álcool e dirigir, conhecida como Lei Seca, onde possui a seguinte distribuição de países que possuem legislação a respeito:
 
-![Image](/docs/images/fig2.png)
+![Figura2](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig2.png)
 
 O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é chamado de BAC (Blood Alcohol Concentration), dado na unidade de gramas por dl. A atual forma de se estimar este parâmetro está em 
 
