@@ -22,14 +22,10 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 
 ## Objetivos
 
-Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à 
-
-
-![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)<br />
-Figura 3:
+Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC, entre as alterações que esperamos observar está a dilatação da pupila que podemos identificar por meio da figura 4.
 
 ![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)<br />
-Figura 4:
+Figura 3:
 
 ## Materiais
 
@@ -38,16 +34,20 @@ Entre os materiais utilizados para a realização do projeto estão listados:
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
 ## Métodos
+
+Primeiramente será construído o bafômetro utilizando os materiais acima listados, sendo que o circuito utilizado está descrito na figura abaixo:
+
+![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)<br />
+Figura 3:
+
+
+
+
 
 ## Resultados 
 
 ...
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Autores
 
