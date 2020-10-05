@@ -6,7 +6,7 @@ As duas maiores causas de morte no mundo são cardiopatia isquêmica e acidente 
 **Os acidentes de trânsito são ainda a melhor forma de aborto para pós-nascidos, liderando como a principal causa de morte infantil. (2)**
 
 
-Segundo o relatório ["GLOBAL STATUS REPORT ON ROAD SAFETY 2018"] da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
+Segundo o relatório _"GLOBAL STATUS REPORT ON ROAD SAFETY 2018"_ da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
 
 ![Figura1](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig1.png)<br />
 Figura 1: Gráfico do número de mortes absoluto e relativo ao longo dos anos.
@@ -67,6 +67,12 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 ## Resultados 
 
 ...
+
+## Referências 
+
+[1] Global status report on road safety 2018. URL: [https://apps.who.int/iris/bitstream/handle/10665/277370/WHO-NMH-NVI-18.20-eng.pdf?ua=1](https://apps.who.int/iris/bitstream/handle/10665/277370/WHO-NMH-NVI-18.20-eng.pdf?ua=1)
+
+[2] OPAS/OMS Brasil - 10 principais causas de morte no mundo. URL: [https://www.paho.org/bra/index.php?option=com_content&view=article&id=5638:10-principais-causas-de-morte-no-mundo&Itemid=0](https://www.paho.org/bra/index.php?option=com_content&view=article&id=5638:10-principais-causas-de-morte-no-mundo&Itemid=0)
 
 ### Autores
 
