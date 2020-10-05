@@ -11,6 +11,10 @@ Segundo o relatório ["GLOBAL STATUS REPORT ON ROAD SAFETY 2018"] da divisão de
 ![Figura1](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig1.png)<br />
 Figura 1:
 
+Nos EUA, de acordo com o departamento de transportes daquele país, estima-se que o gasto público com acidentes de carro causados por motoristas embriagados seja de aproximadamente US$ 44 bilhões (~10500 mortes).
+
+Aqui no Brasil, segundo relatório da PRF, ao longo de 2019, o total de acidentes em BRs provocados por motoristas embriagados foi de 5.631, sendo 1.412 graves. Além disso, cerca de 18 mil motoristas foram notificados por serem flagrados dirigindo sob efeito de álcool.
+
 Entre as medidas que servem como mitigadoras está a lei de regulamentação do consumo de álcool e dirigir, conhecida como Lei Seca, onde possui a seguinte distribuição de países que possuem legislação a respeito:
 
 ![Figura2](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig2.png)<br />
@@ -31,8 +35,11 @@ Figura 3:
 
 Entre os materiais utilizados para a realização do projeto estão listados:
 
-- Bulleted
-- List
+- 1 arduino uno
+- 1 sensor de alcool MQ3
+- 1 display
+- Resistores
+- Potenciometro
 
 ## Métodos
 
@@ -61,4 +68,4 @@ Marcelo Manduca<br />
 [mmanduca@usp.br](mailto:mmanduca@usp.br)
 
 Mateus Simões<br />
-[mateussimoes@usp.br](mailto:mateussimoes@usp.br)
+[mateusmrsimoes@usp.br](mailto:mateusmrsimoes@usp.br)
