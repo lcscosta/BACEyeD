@@ -20,7 +20,7 @@ Entre as medidas que servem como mitigadoras está a lei de regulamentação do 
 ![Figura2](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig2.png)<br />
 Figura 2: Mapa dos países que possuem leis de regulamentação do consumo de álcool e dirigir.
 
-O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é chamado de BAC (Blood Alcohol Concentration), dado na unidade de gramas por dl. A atual forma de se estimar este parâmetro está nos bafômetros ....
+O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é chamado de BAC (Blood Alcohol Concentration), dado na unidade de gramas por dl. A atual forma de se estimar este parâmetro está nos bafômetros.
 
 
 
