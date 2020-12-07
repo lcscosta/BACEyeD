@@ -50,7 +50,7 @@ Figura 4: Imagem esquemática do circuito utilizado para fazer o bafômetro.
 
 Para a identificação da dilatação da pupila utilizaremos uma rede neural focada em classificação, o modelo de inteligência artifical a ser utilizado é a MobileNet devido à sua alta portatibilidade.
 
-![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig5.png)<br />
+![Figura12](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig12.png)<br />
 Figura 5: Apresentação da MobileNet e suas várias aplicações.
 
 Um exemplo de classificação que pode ser realizada é dada pela imagem abaixo:
@@ -68,10 +68,17 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Bafometro
 
+![Figura7](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig7.jpeg)<br />
 
+![Figura8](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig8.jpeg)<br />
+
+![Figura9](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig9.jpeg)<br />
 
 ## Inteligência Artificial
 
+![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+
+![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
 
 
 ## Referências 
