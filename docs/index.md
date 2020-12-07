@@ -1,9 +1,9 @@
-## Introdução
+# Introdução
 
 As duas maiores causas de morte no mundo são cardiopatia isquêmica e acidente vascular cerebral, no ano de 2016 foram responsáveis por 15,2 milhões de óbitos no mundo. Não muito longe encontra-se em **8º lugar mortes causadas por acidentes de trânsito** que no mesmo ano mataram cerca de 1,4 milhão de pessoas, dos quais cerca de três quartos (74%) foram homens e meninos. (1) 
 
 
-**Os acidentes de trânsito são ainda a melhor forma de aborto para pós-nascidos, liderando como a principal causa de morte infantil. (2)**
+**Os acidentes de trânsito lideram como a principal causa de morte infantil. (2)**
 
 
 Segundo o relatório _"GLOBAL STATUS REPORT ON ROAD SAFETY 2018"_ da divisão de saúde da ONU, o número absoluto de mortes no trânsito cresce anualmente como pode ser visto na figura 1. 
@@ -24,24 +24,24 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 
 
 
-## Objetivos
+# Objetivos
 
 Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC, entre as alterações que esperamos observar está a dilatação da pupila que podemos identificar por meio da figura 3.
 
 ![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)<br />
 Figura 3: Labelling de uma imagem, delimitando íris e pupila.
 
-## Materiais
+# Materiais
 
 Entre os materiais utilizados para a realização do projeto estão listados:
 
 - 1 arduino uno
 - 1 sensor de alcool MQ3
-- 1 display
+- 1 display LCD
 - Resistores
 - Potenciometro
 
-## Métodos
+# Métodos
 
 Primeiramente será construído o bafômetro utilizando os materiais acima listados, sendo que o circuito utilizado está descrito na figura abaixo:
 
@@ -64,9 +64,15 @@ As MobileNets são uma classe de convolução de redes neurais projetadas por pe
 Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 
-## Resultados 
+# Resultados 
 
-...
+## Bafometro
+
+
+
+## Inteligência Artificial
+
+
 
 ## Referências 
 
