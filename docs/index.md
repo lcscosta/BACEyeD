@@ -65,6 +65,8 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Bafometro
 
+![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+
 ![Figura7](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig7.jpeg)<br />
 
 ![Figura8](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig8.jpeg)<br />
@@ -77,7 +79,6 @@ Para o treinamento da IA foram utilizados os dados disponibilizados pelo projeto
 
 ![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
 
-![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
 
 
 
