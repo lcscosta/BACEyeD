@@ -26,10 +26,7 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 
 # Objetivos
 
-Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC, entre as alterações que esperamos observar está a dilatação da pupila que podemos identificar por meio da figura 3.
-
-![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)<br />
-Figura 3: Labelling de uma imagem, delimitando íris e pupila.
+Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC na região dos olhos.
 
 # Materiais
 
@@ -76,9 +73,13 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Inteligência Artificial
 
-![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+Para o treinamento da IA foram utilizados os dados disponibilizados pelo projeto
 
 ![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
+
+![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+
+
 
 
 ## Referências 
