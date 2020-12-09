@@ -26,10 +26,7 @@ O parâmetro utilizado para definir o estado de embriaguez de um indivíduo é c
 
 # Objetivos
 
-Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC, entre as alterações que esperamos observar está a dilatação da pupila que podemos identificar por meio da figura 3.
-
-![Figura4](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig4.png)<br />
-Figura 3: Labelling de uma imagem, delimitando íris e pupila.
+Entre os objetivos do projeto são a criação de um bafômetro utilizando um arduíno e também utilizar dos dados coletados pelo bafômetro juntamente com fotos para treinar uma inteligência artificial capaz de detectar alterações fisiológicas que possam ser associadas à BAC na região dos olhos.
 
 # Materiais
 
@@ -50,7 +47,7 @@ Figura 4: Imagem esquemática do circuito utilizado para fazer o bafômetro.
 
 Para a identificação da dilatação da pupila utilizaremos uma rede neural focada em classificação, o modelo de inteligência artifical a ser utilizado é a MobileNet devido à sua alta portatibilidade.
 
-![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig5.png)<br />
+![Figura12](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig12.png)<br />
 Figura 5: Apresentação da MobileNet e suas várias aplicações.
 
 Um exemplo de classificação que pode ser realizada é dada pela imagem abaixo:
@@ -68,9 +65,23 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Bafometro
 
+<iframe width="725" height="453" src="https://www.tinkercad.com/embed/kJEHffWGBYv?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+
+![Figura7](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig7.jpeg)<br />
+
+![Figura8](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig8.jpeg)<br />
+
+![Figura9](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig9.jpeg)<br />
 
 ## Inteligência Artificial
+
+Para o treinamento da IA foram utilizados os dados disponibilizados pelo projeto
+
+![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
+
+
 
 
 
