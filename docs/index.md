@@ -65,6 +65,8 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Bafometro
 
+<iframe width="725" height="453" src="https://www.tinkercad.com/embed/kJEHffWGBYv?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 ![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
 
 ![Figura7](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig7.jpeg)<br />
