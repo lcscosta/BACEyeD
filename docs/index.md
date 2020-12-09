@@ -45,17 +45,17 @@ Primeiramente será construído o bafômetro utilizando os materiais acima lista
 ![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig3.jpeg)<br />
 Figura 4: Imagem esquemática do circuito utilizado para fazer o bafômetro.
 
-Para a identificação da dilatação da pupila utilizaremos uma rede neural focada em classificação, o modelo de inteligência artifical a ser utilizado é a MobileNet devido à sua alta portatibilidade.
+Para a identificação danutilizaremos uma rede neural focada em classificação, o modelo de inteligência artifical a ser utilizado é a Darknet, na sua versão YoLov3 que é especializada para aplicações em tempo real.
 
 ![Figura12](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig12.png)<br />
-Figura 5: Apresentação da MobileNet e suas várias aplicações.
+Figura 5: Darknet Logo.
 
 Um exemplo de classificação que pode ser realizada é dada pela imagem abaixo:
 
 ![Figura3](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig6.png)<br />
 Figura 6: Classificação de uma imagem em termos dos diferentes objetos pelo qual o modelo foi treinado a reconhecer.
 
-As MobileNets são uma classe de convolução de redes neurais projetadas por pesquisadores do Google. 
+A Darknet é uma rede neural convolucional escrita em C, criada por Joseph Redmon. 
 
 ![Figura3](https://miro.medium.com/max/1000/1*vkQ0hXDaQv57sALXAJquxA.jpeg)<br />
 Figura 7: Funcionamento de uma Rede Neural Convolucional.
@@ -65,13 +65,25 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 
 ## Bafometro
 
+Primeiramente temos o modelo do circuito desenvolvido no TinkerCad
+
 <iframe width="725" height="453" src="https://www.tinkercad.com/embed/kJEHffWGBYv?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
+Também foi construído o modelo real que pode ser visto abaixo:
+
+![Figura13](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig13.jpeg)<br />
+
+Um dos trabalhos a serem realizados foi a de calibração do nosso bafômetro com referência à um bafômetro químico.
+
 ![Figura10](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig10.jpg)<br />
+
+Para a realização da calibração foram utilizados 5 medidas no nosso bafômetro e uma medida de referência no bafômetro químico, desta forma conseguimos capturar os dados e então ajusta-los de acordo com duas curvas, sendo elas para a % da concentração de álcool no sangue para para uma medida de mg/L.
 
 ![Figura7](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig7.jpeg)<br />
 
 ![Figura8](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig8.jpeg)<br />
+
+O Datasheet fornecido pela fabricante.
 
 ![Figura9](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig9.jpeg)<br />
 
@@ -80,9 +92,6 @@ Figura 7: Funcionamento de uma Rede Neural Convolucional.
 Para o treinamento da IA foram utilizados os dados disponibilizados pelo projeto
 
 ![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
-
-
-
 
 
 ## Referências 
