@@ -89,10 +89,11 @@ O Datasheet fornecido pela fabricante.
 
 ## Inteligência Artificial
 
-Para o treinamento da IA foram utilizados os dados disponibilizados pelo projeto
+Para o treinamento da IA foram utilizados os dados disponibilizados pelo Wine Project
 
 ![Figura11](https://raw.githubusercontent.com/lcscosta/BACEyeD/master/docs/images/fig11.jpg)<br />
 
+https://www.marcosalberti.com/wineproject
 
 ## Referências 
 
